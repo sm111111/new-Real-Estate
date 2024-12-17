@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore</title>
+    <link rel="stylesheet" href="./css/Explore.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+    
+    <nav>
+        <ul>
+            <li><a href="index.html">Back</a></li>
+            <li><div class="cart">cart</div></li>
+        </ul>
+    </nav>
+
+    <div class="popup" id="cartPopup">
+        <div class="popup-content">
+            <span class="close-btn" id="closeBtn" onclick="closePopup()">&times;</span>
+            <div class="cart-conatiner">
+                <div class="cart-conatiner">
+                    <img src="https://images.unsplash.com/photo-1464146072230-91cabc968266?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8fDA%3D" alt="">
+                </div>
+                <div class="tool">
+                    <button>+</button>
+                    <button>-</button>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <section>
+        <div class="All-Properties">
+            <span>All Properties</span>
+            <h1>Properties</h1>
+            <div class="All-Properties-control-tools">
+                <div class="option">
+                    <select>
+                        <option value="option1">Option 1</option>
+                        <option value="option2">Option 2</option>
+                    </select>
+                </div>
+                <div class="option">
+                    <select>
+                        <option value="option1">Option 1</option>
+                        <option value="option2">Option 2</option>
+                    </select>
+                </div>
+                <div class="option">
+                    <select>
+                        <option value="option1">Option 1</option>
+                        <option value="option2">Option 2</option>
+                    </select>
+                </div>
+                <div class="All-Properties-option">
+                    <input type="text" placeholder="Search..." id="search">
+                </div>
+            </div>
+
+            <div class="All-Properties-container">
+            
+            </div>
+        </div>
+
+    </section>
+
+
+    <footer>
+        ©Realvy. All rights reserved.
+    </footer>
+    
+
+
+
+   
+<script src="./js/Explore.js"></script>
+</body>
+</html>

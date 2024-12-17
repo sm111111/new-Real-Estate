@@ -1,0 +1,191 @@
+[
+  {
+      "housename": "Sunny Meadows",
+      "address": "123 Main St",
+      "rentmonthly": 1500,
+      "sqft-area": 1200,
+      "numberof_bed": 3,
+      "numberof_shower": 2,
+      "numberof_car_parking": 1
+  },
+  {
+      "housename": "Oakview Residence",
+      "address": "456 Elm St",
+      "rentmonthly": 2000,
+      "sqft-area": 1500,
+      "numberof_bed": 4,
+      "numberof_shower": 3,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Maple Grove",
+      "address": "789 Oak St",
+      "rentmonthly": 1800,
+      "sqft-area": 1300,
+      "numberof_bed": 3,
+      "numberof_shower": 2,
+      "numberof_car_parking": 1
+  },
+  {
+      "housename": "Pinehill Manor",
+      "address": "101 Pine St",
+      "rentmonthly": 2200,
+      "sqft-area": 1600,
+      "numberof_bed": 5,
+      "numberof_shower": 4,
+      "numberof_car_parking": 3
+  },
+  {
+      "housename": "Greenfield Estate",
+      "address": "202 Maple St",
+      "rentmonthly": 1700,
+      "sqft-area": 1400,
+      "numberof_bed": 4,
+      "numberof_shower": 2,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Birchwood Cottage",
+      "address": "303 Birch St",
+      "rentmonthly": 1600,
+      "sqft-area": 1250,
+      "numberof_bed": 3,
+      "numberof_shower": 2,
+      "numberof_car_parking": 1
+  },
+  {
+      "housename": "Cedar Ridge",
+      "address": "404 Cedar St",
+      "rentmonthly": 2100,
+      "sqft-area": 1550,
+      "numberof_bed": 4,
+      "numberof_shower": 3,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Redwood Heights",
+      "address": "505 Redwood St",
+      "rentmonthly": 2500,
+      "sqft-area": 1800,
+      "numberof_bed": 5,
+      "numberof_shower": 4,
+      "numberof_car_parking": 3
+  },
+  {
+      "housename": "Silver Birch Villa",
+      "address": "606 Willow St",
+      "rentmonthly": 2400,
+      "sqft-area": 1700,
+      "numberof_bed": 4,
+      "numberof_shower": 3,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Riverstone Retreat",
+      "address": "707 River Rd",
+      "rentmonthly": 2700,
+      "sqft-area": 2000,
+      "numberof_bed": 5,
+      "numberof_shower": 4,
+      "numberof_car_parking": 3
+  },
+  {
+      "housename": "Willow Creek House",
+      "address": "808 Willow Creek Dr",
+      "rentmonthly": 2300,
+      "sqft-area": 1600,
+      "numberof_bed": 4,
+      "numberof_shower": 3,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Highland View",
+      "address": "909 Mountain Rd",
+      "rentmonthly": 2800,
+      "sqft-area": 2100,
+      "numberof_bed": 6,
+      "numberof_shower": 4,
+      "numberof_car_parking": 3
+  },
+  {
+      "housename": "Sunrise Villas",
+      "address": "1010 Sunrise Blvd",
+      "rentmonthly": 1900,
+      "sqft-area": 1350,
+      "numberof_bed": 3,
+      "numberof_shower": 2,
+      "numberof_car_parking": 1
+  },
+  {
+      "housename": "Golden Oaks Mansion",
+      "address": "1111 Oakwood Dr",
+      "rentmonthly": 3000,
+      "sqft-area": 2500,
+      "numberof_bed": 5,
+      "numberof_shower": 4,
+      "numberof_car_parking": 4
+  },
+  {
+      "housename": "Lakeside Retreat",
+      "address": "1212 Lakeview Ln",
+      "rentmonthly": 2200,
+      "sqft-area": 1600,
+      "numberof_bed": 4,
+      "numberof_shower": 3,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Autumn Ridge",
+      "address": "1313 Autumn St",
+      "rentmonthly": 2000,
+      "sqft-area": 1500,
+      "numberof_bed": 3,
+      "numberof_shower": 2,
+      "numberof_car_parking": 1
+  },
+  {
+      "housename": "Heritage House",
+      "address": "1414 Heritage Dr",
+      "rentmonthly": 1800,
+      "sqft-area": 1300,
+      "numberof_bed": 3,
+      "numberof_shower": 2,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Seaside Escape",
+      "address": "1515 Seaside Ave",
+      "rentmonthly": 2500,
+      "sqft-area": 1800,
+      "numberof_bed": 5,
+      "numberof_shower": 4,
+      "numberof_car_parking": 3
+  },
+  {
+      "housename": "Crystal Springs",
+      "address": "1616 Spring Rd",
+      "rentmonthly": 2400,
+      "sqft-area": 1750,
+      "numberof_bed": 4,
+      "numberof_shower": 3,
+      "numberof_car_parking": 2
+  },
+  {
+      "housename": "Mountain View Lodge",
+      "address": "1717 Mountain View Dr",
+      "rentmonthly": 2600,
+      "sqft-area": 1900,
+      "numberof_bed": 5,
+      "numberof_shower": 4,
+      "numberof_car_parking": 3
+  },
+  {
+      "housename": "Skyline Heights",
+      "address": "1818 Skyline Blvd",
+      "rentmonthly": 3000,
+      "sqft-area": 2100,
+      "numberof_bed": 6,
+      "numberof_shower": 4,
+      "numberof_car_parking": 4
+  }
+]
